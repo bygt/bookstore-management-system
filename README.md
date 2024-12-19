@@ -54,9 +54,9 @@ This is a **Bookstore Management System** built using **NestJS**, **TypeScript**
 
 ---
 
-## Installation
+## Installation 
 
-Follow the steps below to set up the project on your local machine.
+⤵ Follow the steps below to set up the project on your local machine.
 
 ### Prerequisites
 
@@ -164,9 +164,9 @@ Follow the steps below to set up the project on your local machine.
 
 ---
 
-## Documentation
+## Documentation 
 
- Swagger Setup: This project uses Swagger to generate API documentation. The setup can be found in the `swagger.ts` file. 
+ 📑 Swagger Setup: This project uses Swagger to generate API documentation. The setup can be found in the `swagger.ts` file. 
  
  Accessing the Documentation: After running the application, the API documentation is accessible at:
  ```bash
@@ -177,9 +177,10 @@ Follow the steps below to set up the project on your local machine.
 ---
 
 
-## Contact
-For questions or feedback, please reach out to:
-- *GitHub*: [Buse Yiğit](https://github.com/bygt)
+## Contact 
+
+📞 For questions or feedback, please reach out to:
+- *GitHub*: [Buse Yiğit](https://github.com/bygt)  
 - *LinkedIn*: [Buse Yiğit](https://www.linkedin.com/in/buse-yigit/)
 - *Email*: [buseyigit01@gmail.com](mailto:buseyigit01@gmail.com)
 
